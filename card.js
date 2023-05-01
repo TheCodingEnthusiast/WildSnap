@@ -1,34 +1,34 @@
 const items = [
   {
-    name: "Lion ",
-    image: "https://source.unsplash.com/400x400/?nature",
-    description: "awufbi aufwonuawufbi baufwonu baufwonubaufwonubaufwonu baufwonu baufwonu baufwonu baufwonu  ",
+    name: "Lion",
+    image: "1/2..jpg",
+    description: "“Lonely lion is better than famous sheep.”",
     url: "https://en.wikipedia.org/wiki/Lion"
     
   },
   {
-    name: "Item 2",
-    image: "https://source.unsplash.com/400x400/?food",
-    description: "Description of item 2",
+    name: "Bear",
+    image: "1/1..png",
+    description: "“Bears are very nice as long as you are nice to them.”",
     url:"https://en.wikipedia.org/wiki/Lion"
   },
   {
-    name: "Item 3",
-    image: "https://source.unsplash.com/400x400/?animals",
-    description: "Description of item 3",
+    name: "Wolf",
+    image: "1/3..png",
+    description: "“The wolf on the hill is not as hungry as the wolf climbing the hill.”",
     url:"https://en.wikipedia.org/wiki/Lion"
   },
 
   {
-    name: "Item 4",
-    image: "https://source.unsplash.com/400x400/?outdoor",
-    description: "Description of item 4",
+    name: "Tiger",
+    image: "1/4..png",
+    description: "“Save the tigers before they are silenced forever.”",
     url:"https://en.wikipedia.org/wiki/Lion"
   },
   {
-    name: "Item 5",
-    image: "https://source.unsplash.com/400x400/?water",
-    description: "Description of item 4",
+    name: "Elephant",
+    image: "1/5..png",
+    description: "“When the elephant walks, the forest walks with them.”",
     url:"https://en.wikipedia.org/wiki/Lion"
   },
 
